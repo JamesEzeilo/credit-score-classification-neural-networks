@@ -1,14 +1,14 @@
 # Local data setup
 
-The dataset files are deliberately excluded from this public repository. Do not commit them unless you have explicit permission to redistribute them.
+The dataset files are intentionally excluded from this public repository. Do not commit them unless you have explicit permission to redistribute them.
 
-The current notebook expects these files in the same local directory from which the notebook is run:
+The cleaned portfolio notebook expects these files in the same local directory from which the notebook is run:
 
 ```text
 CreditScore_train.csv
 CreditScore_test.csv
 ```
 
-After obtaining the data through the appropriate authorised source, place both files next to `Assignment 2 - James Ezeilo.ipynb` before running the notebook.
+After obtaining the data through the appropriate authorised source, place both files next to the notebook or update `TRAIN_PATH` and `TEST_PATH` in `notebooks/credit_score_classification_clean.ipynb` to match your local file structure.
 
-A future cleaned version of this project will use a more reproducible project structure and configurable data paths.
+The repository is complete as a public portfolio project; the data remains local to respect redistribution restrictions.
