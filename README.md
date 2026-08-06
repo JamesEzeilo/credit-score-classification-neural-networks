@@ -14,7 +14,7 @@ Both models are assessed with accuracy, precision, recall, F1 score, confusion m
 ## Repository contents
 
 - `notebooks/credit_score_classification_clean.ipynb` — completed, cleaned portfolio notebook with reproducible preprocessing and model evaluation
-- `Credit Score Classification - James Ezeilo.ipynb` — original assignment notebook retained for reference
+- `credit_score_classification.ipynb` — original assignment notebook retained for reference
 - `requirements.txt` — Python package dependencies
 - `data/README.md` — local dataset setup instructions
 
